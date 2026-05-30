@@ -8,6 +8,13 @@ Gemfile.lock
 .jekyll-metadata
 _site
 
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Ruby version
+.ruby-version
+
 # RubyGems
 *.gem
 
